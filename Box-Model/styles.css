@@ -1,0 +1,23 @@
+.div-1 {
+    width: 300px;
+    border: 15px solid red;
+    padding: 50px;
+    margin: 20px;
+    
+}
+
+.div-2 {
+    width: 300px;
+    border: 15px solid yellow;
+    padding: 50px;
+    margin: 20px;
+    
+}
+
+.intro-1 {
+    color: green;
+}
+
+.intro-2 {
+    color: blue;
+}
